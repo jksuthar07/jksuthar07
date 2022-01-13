@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jksuthar07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Jayantilal Suthar
+- 👀 I’m Working on Dotnet IoT based Projects
+- 🌱 I’m currently learning Javascript and ReactJs
+
 
 <!---
 jksuthar07/jksuthar07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
